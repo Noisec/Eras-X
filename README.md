@@ -1,4 +1,4 @@
-# Eras
+# Eras X
 An insanely customizable DOS tool with port scanner (source code included)
 > ! for educational purposes only !
 
