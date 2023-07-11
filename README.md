@@ -5,8 +5,6 @@ An insanely customizable DOS tool with port scanner (source code included)
 
 [<kbd> <br> Download all-in-one executable <br> </kbd>][KBD]
 
-
-
 [KBD]: https://github.com/Noisec/Eras-X/releases/download/1.1.1.1/ErasX.exe
 
 
