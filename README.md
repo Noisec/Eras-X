@@ -2,10 +2,8 @@
 An insanely customizable DOS tool with port scanner (source code included)
 > ! for educational purposes only !
 
-[Download all-in-one executable for Win10](https://github.com/Noisec/Eras-X/releases/download/1.1.1.1/ErasX.exe)
 
-
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+[<kbd> <br> Download all-in-one executable <br> </kbd>][KBD]
 
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
